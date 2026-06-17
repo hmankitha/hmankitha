@@ -35,34 +35,18 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **1+ yea
 - 🤝 Collaborate with Development and QA teams throughout the SDLC to deliver secure, scalable, and reliable software solutions
 ---
 
-### 💼 Career Snapshot
-
-- 🏢 **JPMorgan Chase** – *Software Engineer II – SRE*  
-  Managing GAIA-based infrastructure with Kubernetes and Jules. Driving CI/CD and observability strategy across critical internal platforms.
-
-- 🏢 **Presidio** – *Senior DevOps Engineer*  
-  Led cloud automation projects using Terraform, Docker, and CI/CD tools (GitHub Actions, Jenkins) on AWS, resulting in a 40% deployment time reduction.
-
-- 🏢 **CGI** – *Systems Engineer*  
-  Designed secure cloud infrastructure using AWS & Azure. Built CI/CD pipelines, implemented IaC, and improved uptime and efficiency.
-
-- 🏢 **Avineon** – *GIS Engineer*  
-  Developed spatial mapping solutions using AutoCAD. Delivered 24/7 monitoring and ensured data accuracy and map validation integrity.
-
----
-
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Haripalepu&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Haripalepu&theme=cobalt2&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Haripalepu&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=hmankitha&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=hmankitha&theme=cobalt2&hide_border=true)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hmankitha&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/Haripalepu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/hmankitha/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
