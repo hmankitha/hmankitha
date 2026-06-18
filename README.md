@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Ankitha HM
 
-### ASSISTENT DEVOPS ENGINEER  
+### DEVOPS ENGINEER @ BARCLAYS  
 🚀 DevOps • SRE • Cloud Engineer | AWS | CI/CD | Kubernetes | Terraform 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/ankithahm/)
